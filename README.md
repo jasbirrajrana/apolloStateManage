@@ -1,1 +1,1 @@
-### Redux State Management with react-apollo 🚀
+### State Management with react-apollo 🚀
